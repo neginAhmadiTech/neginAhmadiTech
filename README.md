@@ -7,6 +7,7 @@
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=neginAhmadiTech&theme=dracula&hide_border=true&border_radius=10)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=neginAhmadiTech)](https://wakatime.com)
 
 
 
