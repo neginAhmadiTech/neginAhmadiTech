@@ -8,6 +8,7 @@
   <img width="40%" height:"70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginAhmadiTech&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=neginAhmadiTech&theme=dracula&hide_border=true&border_radius=10&v=1" alt="GitHub Streak" title="GitHub Streak"/>
-</p>
+### 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=neginAhmadiTech&theme=tokyo-night)](https://github.com/neginAhmadiTech)
+
