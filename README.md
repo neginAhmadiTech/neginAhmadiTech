@@ -6,6 +6,7 @@
   <img width="40%" height:"70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginAhmadiTech&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neginAhmadiTech&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://neginAhmadiTech.github.io/github-readme-streak-stats/?user=neginAhmadiTech&theme=dracula&hide_border=true&border_radius=10)](https://github.com/neginAhmadiTech)
+
 
 
