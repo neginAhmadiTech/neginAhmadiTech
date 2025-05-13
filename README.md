@@ -6,8 +6,6 @@
   <img width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginAhmadiTech&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=neginAhmadiTech&theme=dracula&hide_border=true&border_radius=10)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=neginAhmadiTech)](https://wakatime.com)
 
 
 
