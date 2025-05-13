@@ -1,10 +1,13 @@
 ### 💻 GitHub Stats
+<br >
+<br >
+<br >
 
 <p align="center">
-  <img width="48%" height:"100%" src="https://github-readme-stats.vercel.app/api?username=neginAhmadiTech&show_icons=true&theme=tokyonight" />
-  <img width="48%" height:"70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginAhmadiTech&layout=compact&theme=tokyonight" />
+  <img width="48%" height:"100%" src="https://github-readme-stats.vercel.app/api?username=neginAhmadiTech&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&border_radius=10" />
+  <img width="40%" height:"70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginAhmadiTech&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=neginAhmadiTech&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=neginAhmadiTech&theme=dracula&hide_border=true&border_radius=10" />
 </p>
