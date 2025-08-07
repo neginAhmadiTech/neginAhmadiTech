@@ -7,7 +7,7 @@ Currently, I'm expanding my knowledge of software engineering principles through
 
 <br >
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 <br >
 
 <p align="center">
